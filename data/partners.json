@@ -1,0 +1,77 @@
+[
+  {
+    "title": "general-sponsor",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "//google.com",
+        "logoUrl": "/images/logos/partners/google.svg",
+        "width": 400,
+        "height": 200
+      }
+    ]
+  },
+  {
+    "title": "kitkat-sponsor",
+    "logos": [
+      {
+        "name": "SENAI CIMATEC",
+        "url": "//senaicimatec.com.br/",
+        "logoUrl": "/images/logos/partners/senai.svg",
+        "width": 300,
+        "height": 150
+      },
+      {
+        "name": "Tampa",
+        "url": "//loja.tampa.works",
+        "logoUrl": "/images/logos/partners/tampa.svg",
+        "width": 300,
+        "height": 150
+      }
+    ]
+  },
+  {
+    "title": "jelly-sponsor",
+    "logos": [
+      {
+        "name": "",
+        "url": "",
+        "logoUrl": "",
+        "width": 130
+      }
+    ]
+  },
+  {
+    "title": "ice-sponsor",
+    "logos": [
+      {
+        "name": "",
+        "url": "",
+        "logoUrl": "",
+        "width": 120
+      }
+    ]
+  },
+  {
+    "title": "honeycomb-sponsor",
+    "logos": [
+      {
+        "name": "",
+        "url": "",
+        "logoUrl": "",
+        "width": 100
+      }
+    ]
+  },
+  {
+    "title": "gingerbread-sponsor",
+    "logos": [
+      {
+        "name": "",
+        "url": "",
+        "logoUrl": "",
+        "width": 80
+      }
+    ]
+  }
+]
