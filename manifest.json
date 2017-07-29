@@ -1,6 +1,6 @@
 {
-  "name": "{$ title $}",
-  "short_name": "{$ webapp.shortName $}",
+  "name": "GDG DevFest Nordeste 2017",
+  "short_name": "dfne17",
   "icons": [
     {
       "src": "images/touch/homescreen-48.png",
@@ -40,8 +40,8 @@
   ],
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
-  "background_color": "{$ webapp.backgroundColor $}",
-  "theme_color": "{$ webapp.themeColor $}",
+  "background_color": "#F57C00",
+  "theme_color": "#F57C00",
   "content_security_policy": "script-src 'self' https://apis.google.com https://www.googleapis.com https://securetoken.googleapis.com; object-src 'self'",
   "permissions": ["https://*/*","activeTab"]
 }
