@@ -1,0 +1,96 @@
+<svg width="2535" height="558" viewBox="0 0 2535 558" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Logo Tampa</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(3 0 0 3 1227 357)">
+<g id="Logo Tampa">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-339 -78)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="translate(-154 -117)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path2_fill" transform="translate(-68 -119)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path3_fill" transform="translate(-4 -106)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path4_fill" transform="translate(59 -107)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path5_fill" transform="translate(141 -73)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path6_fill" transform="translate(327 -112)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path7_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -408.5 -83)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path8_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 108 -79)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path9_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -83 26)" fill="#E8144D"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path10_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 436 30.5)" fill="#E8144D"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path11_fill" transform="translate(-26 -91)" fill="#E8144D"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path11_fill" transform="translate(37 -91)" fill="#E8144D"/>
+</g>
+<g id="Rectangle 3">
+<use xlink:href="#path12_fill" transform="translate(-238 -49)" fill="#E8144D"/>
+</g>
+<g id="Rectangle 3">
+<use xlink:href="#path12_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 268 -5)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path13_fill" transform="translate(-292 24)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path13_fill" transform="translate(189 30)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path13_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 321 -79)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path13_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -161 -83)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path14_fill" transform="matrix(1 5.34378e-24 -5.34378e-24 1 -278 -78)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path14_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 308 24)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path15_fill" transform="matrix(1 -1.22465e-16 -1.22465e-16 -1 -198 -16)" fill="#E8144D"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path16_fill" transform="matrix(-0.82453 -0.565818 0.565818 -0.82453 228.5 -7.5)" fill="#E8144D"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 41 0L 41 139L 0 108.167L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 39 35L 39 135L 0 135L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 34 0L 34 171L 0 145L 0 0Z"/>
+<path id="path3_fill" d="M 0 0L 34 29L 34 160L 0 128L 0 0Z"/>
+<path id="path4_fill" d="M 0 0L 34 30L 34 166L 0 166L 0 0Z"/>
+<path id="path5_fill" d="M 0 0L 42 0L 42 140L 0 100L 0 0Z"/>
+<path id="path6_fill" d="M 0 0L 42 27L 42 139L 0 139L 0 0Z"/>
+<path id="path7_fill" d="M 0 0L 32 45.5L 32 157.5L 0 183.5L 0 0Z"/>
+<path id="path8_fill" d="M 0 0L 32 39.921L 32 138.188L 0 161L 0 0Z"/>
+<path id="path9_fill" d="M 0 0L 32 38.6812L 32 133.896L 0 156L 0 0Z"/>
+<path id="path10_fill" d="M 1.06581e-14 0L 31.5 43.5L 31.5 157L 0 179.5L 1.06581e-14 0Z"/>
+<path id="path11_fill" d="M 0 27.5L 15 0L 15 98L 0 126.5L 0 27.5Z"/>
+<path id="path12_fill" d="M 7 23L 35 0L 35 68L 0 68L 7 23Z"/>
+<path id="path13_fill" d="M 0 0L 38 0L 0 30L 0 0Z"/>
+<path id="path14_fill" d="M 12.5 0L 45 0L 0 37L 12.5 0Z"/>
+<path id="path15_fill" d="M 0 0L 34.5 5L 0 30L 0 0Z"/>
+<path id="path16_fill" d="M 0 0L 42.4624 1.78771L 18.2113 23.8872L 0 0Z"/>
+</defs>
+</svg>
