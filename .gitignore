@@ -1,8 +1,2 @@
-bower_components
-dist
-node_modules
-build
-.idea/
-.temp/
-.firebaserc
-.DS_Store
+/node_modules
+.DS_store
